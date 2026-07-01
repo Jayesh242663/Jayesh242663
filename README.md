@@ -15,6 +15,9 @@ Information Technology Student | Full-Stack Developer
   <a href="https//:www.github.com/jayesh242663/">
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
+
+  <a href="https://jayeshchanne.netlify.app/">
+    <img src="https://github.com/Jayesh242663/Portfolio/blob/main/public/favicon.svg" />
 </p>
 
 ---
