@@ -17,7 +17,7 @@ Information Technology Student | Full-Stack Developer
   </a>
 
   <a href="https://jayeshchanne.netlify.app/">
-    <img src="https://github.com/Jayesh242663/Portfolio/blob/main/public/favicon.svg" />
+    <img src="https://github.com/Jayesh242663/Jayesh242663/blob/main/favicon%20(1).ico" />
   </a>
 </p>
 
